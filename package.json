@@ -72,6 +72,5 @@
     "tslint": "~6.1.0",
     "typescript": "~4.3.5"
   },
-  "homepage": "https://github.com/leovo2708/ngx-treeview#readme",
-  "main": "gh-pages.js"
+  "homepage": "https://github.com/leovo2708/ngx-treeview#readme"
 }
